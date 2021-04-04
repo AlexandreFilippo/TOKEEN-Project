@@ -1,0 +1,2 @@
+# TOKEEN-Project
+With the aim to increase transparency and expand the green bonds market in Brazil, TOKEEN is born focusing on the tokenization of renewable energy incentivized debentures. TOKEEN’s goal is to distribute Green Bond Tokens within the universe of green bonds, as well employ blockchain fundamentals to monitor corporate sustainability reporting and to communicate the environmental performance of green bonds to investors. We believe Green Bond Tokens can be great allies in promoting sustainable projects and climate finance.
